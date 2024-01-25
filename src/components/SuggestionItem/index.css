@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.list-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.suggestion-para {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.arrow {
+  height: 15px;
+  width: 15px;
+}
